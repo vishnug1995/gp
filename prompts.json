@@ -1,48 +1,139 @@
 {
     "version": "1.0.0",
     "lastUpdated": "2024-12-08",
-    "trending_prompts_2025": [
+    "prompts": [
         {
+            "id": 1,
+            "title": "Ghibli-core Cozy Kitchen",
             "category": "Viral Trends",
-            "style": "Ghibli-core",
+            "description": "Transform your life into a Studio Ghibli film with this nostalgic kitchen scene",
             "prompt": "A soft-lit cinematic scene of a cozy kitchen in a fantasy cottage, sunlight streaming through stained glass, overflowing with nostalgic charm, hand-drawn anime aesthetic, Studio Ghibli style, vibrant greens and warm oranges, intricate detail.",
-            "trend_context": "The 'What if my life was a Ghibli film' trend, popular on TikTok/Instagram."
+            "tags": [
+                "ghibli",
+                "anime",
+                "viral",
+                "tiktok",
+                "nostalgic",
+                "cozy"
+            ],
+            "trending": true,
+            "popularity": 98,
+            "style": "Ghibli-core",
+            "trendContext": "The 'What if my life was a Ghibli film' trend, popular on TikTok/Instagram."
         },
         {
+            "id": 2,
+            "title": "Nano Banana Action Figure",
             "category": "Viral Trends",
-            "style": "Nano Banana / Toy Figurine",
+            "description": "Turn yourself into a collectible 3D action figure with toy packaging",
             "prompt": "A detailed 3D collectible figurine of a cyberpunk hacker inside a vintage action-figure plastic box, glossy plastic texture, toy packaging theme, high-quality render, 'Gemini 2.5 Nano' aesthetic, studio lighting.",
-            "trend_context": "Viral 'Nano Banana' trend turning users into collectible 3D action figures."
+            "tags": [
+                "3d",
+                "toy",
+                "collectible",
+                "viral",
+                "nano-banana",
+                "cyberpunk"
+            ],
+            "trending": true,
+            "popularity": 95,
+            "style": "Nano Banana / Toy Figurine",
+            "trendContext": "Viral 'Nano Banana' trend turning users into collectible 3D action figures."
         },
         {
+            "id": 3,
+            "title": "Italian Brainrot Meme",
             "category": "Humor & Social Media",
-            "style": "Italian Brainrot",
+            "description": "Create hilarious exaggerated Italian gesture reactions for memes",
             "prompt": "A cartoonish character making exaggerated Italian hand gestures, fingers pinched together, highly expressive face showing comedic frustration, colorful vibrant background, meme aesthetic, slightly exaggerated features, bright studio lighting.",
-            "trend_context": "Humorous depiction of dramatic reactions and stereotypes for Reels/Shorts."
+            "tags": [
+                "meme",
+                "humor",
+                "italian",
+                "reels",
+                "shorts",
+                "comedy"
+            ],
+            "trending": true,
+            "popularity": 92,
+            "style": "Italian Brainrot",
+            "trendContext": "Humorous depiction of dramatic reactions and stereotypes for Reels/Shorts."
         },
         {
+            "id": 4,
+            "title": "Pop Surrealism Alien Rapper",
             "category": "Artistic Movements",
-            "style": "Pop Surrealism (Lowbrow)",
+            "description": "Whimsical surrealist art merging pop culture with bizarre dreamlike elements",
             "prompt": "Vibrant, chaotic illustration of an alien wearing a rapper-style outfit with oversized chains and sneakers, whimsical and bizarre dreamlike atmosphere, neon color palette, playful narrative, high contrast, adult coloring book clean outlines.",
-            "trend_context": "Emerging trend merging high-end surrealism with quirky pop culture."
+            "tags": [
+                "surrealism",
+                "pop-art",
+                "alien",
+                "hip-hop",
+                "colorful",
+                "artistic"
+            ],
+            "trending": true,
+            "popularity": 88,
+            "style": "Pop Surrealism (Lowbrow)",
+            "trendContext": "Emerging trend merging high-end surrealism with quirky pop culture."
         },
         {
+            "id": 5,
+            "title": "Neo-Classical Cyberpunk Angel",
             "category": "Aesthetics",
-            "style": "Neo-Classical Cyberpunk",
+            "description": "Renaissance meets dystopian future with glowing marble statues",
             "prompt": "A polished marble statue of a Renaissance angel glowing with ultraviolet light, dark somber background, gothic overtones, hyper-realistic texture, high contrast, 32k resolution, narrative depth.",
-            "trend_context": "Fusion of classical art history with high-tech neon dystopian lighting."
+            "tags": [
+                "cyberpunk",
+                "classical",
+                "renaissance",
+                "gothic",
+                "neon",
+                "marble"
+            ],
+            "trending": true,
+            "popularity": 90,
+            "style": "Neo-Classical Cyberpunk",
+            "trendContext": "Fusion of classical art history with high-tech neon dystopian lighting."
         },
         {
+            "id": 6,
+            "title": "Retro-Futuristic Art Deco",
             "category": "Aesthetics",
-            "style": "Retro-Futuristic Redux",
+            "description": "Updated Vaporwave with elegant geometric designs and metallic finishes",
             "prompt": "Modern art deco design featuring bold geometric shapes, rich metallic finishes, symmetrical composition, vibrant 80s synthwave gradients, futuristic architecture, visually pleasing depth.",
-            "trend_context": "Updated Vaporwave aesthetic focused on elegant design and luxury finishes."
+            "tags": [
+                "vaporwave",
+                "art-deco",
+                "retro",
+                "synthwave",
+                "geometric",
+                "80s"
+            ],
+            "trending": true,
+            "popularity": 87,
+            "style": "Retro-Futuristic Redux",
+            "trendContext": "Updated Vaporwave aesthetic focused on elegant design and luxury finishes."
         },
         {
+            "id": 7,
+            "title": "Fantasy RPG Elven Warrior",
             "category": "Gaming & Concept Art",
-            "style": "Fantasy RPG Illustration",
+            "description": "Epic high-fantasy character illustration for world-building and concept art",
             "prompt": "A high-fantasy elven warrior standing on a crystal cliff at dawn, intricate armor with glowing blue runes, panoramic wide shot, soft golden light, inspired by epic Tolkien-esque illustrations, digital oil painting texture.",
-            "trend_context": "Consistent demand for high-fidelity world-building and character concept art."
+            "tags": [
+                "fantasy",
+                "rpg",
+                "gaming",
+                "elf",
+                "concept-art",
+                "tolkien"
+            ],
+            "trending": false,
+            "popularity": 85,
+            "style": "Fantasy RPG Illustration",
+            "trendContext": "Consistent demand for high-fidelity world-building and character concept art."
         }
     ]
 }
