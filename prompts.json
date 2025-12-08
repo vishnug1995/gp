@@ -1,20 +1,48 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2024-12-08",
-  "prompts": [
-    {
-      "id": 1,
-      "title": "Code Reviewer",
-      "category": "Development",
-      "prompt": "Act as a code reviewer...",
-      "trending": true
-    },
-    {
-      "id": 2,
-      "title": "Content Writer",
-      "category": "Writing",
-      "prompt": "Create engaging content about...",
-      "trending": false
-    }
-  ]
+    "version": "1.0.0",
+    "lastUpdated": "2024-12-08",
+    "trending_prompts_2025": [
+        {
+            "category": "Viral Trends",
+            "style": "Ghibli-core",
+            "prompt": "A soft-lit cinematic scene of a cozy kitchen in a fantasy cottage, sunlight streaming through stained glass, overflowing with nostalgic charm, hand-drawn anime aesthetic, Studio Ghibli style, vibrant greens and warm oranges, intricate detail.",
+            "trend_context": "The 'What if my life was a Ghibli film' trend, popular on TikTok/Instagram."
+        },
+        {
+            "category": "Viral Trends",
+            "style": "Nano Banana / Toy Figurine",
+            "prompt": "A detailed 3D collectible figurine of a cyberpunk hacker inside a vintage action-figure plastic box, glossy plastic texture, toy packaging theme, high-quality render, 'Gemini 2.5 Nano' aesthetic, studio lighting.",
+            "trend_context": "Viral 'Nano Banana' trend turning users into collectible 3D action figures."
+        },
+        {
+            "category": "Humor & Social Media",
+            "style": "Italian Brainrot",
+            "prompt": "A cartoonish character making exaggerated Italian hand gestures, fingers pinched together, highly expressive face showing comedic frustration, colorful vibrant background, meme aesthetic, slightly exaggerated features, bright studio lighting.",
+            "trend_context": "Humorous depiction of dramatic reactions and stereotypes for Reels/Shorts."
+        },
+        {
+            "category": "Artistic Movements",
+            "style": "Pop Surrealism (Lowbrow)",
+            "prompt": "Vibrant, chaotic illustration of an alien wearing a rapper-style outfit with oversized chains and sneakers, whimsical and bizarre dreamlike atmosphere, neon color palette, playful narrative, high contrast, adult coloring book clean outlines.",
+            "trend_context": "Emerging trend merging high-end surrealism with quirky pop culture."
+        },
+        {
+            "category": "Aesthetics",
+            "style": "Neo-Classical Cyberpunk",
+            "prompt": "A polished marble statue of a Renaissance angel glowing with ultraviolet light, dark somber background, gothic overtones, hyper-realistic texture, high contrast, 32k resolution, narrative depth.",
+            "trend_context": "Fusion of classical art history with high-tech neon dystopian lighting."
+        },
+        {
+            "category": "Aesthetics",
+            "style": "Retro-Futuristic Redux",
+            "prompt": "Modern art deco design featuring bold geometric shapes, rich metallic finishes, symmetrical composition, vibrant 80s synthwave gradients, futuristic architecture, visually pleasing depth.",
+            "trend_context": "Updated Vaporwave aesthetic focused on elegant design and luxury finishes."
+        },
+        {
+            "category": "Gaming & Concept Art",
+            "style": "Fantasy RPG Illustration",
+            "prompt": "A high-fantasy elven warrior standing on a crystal cliff at dawn, intricate armor with glowing blue runes, panoramic wide shot, soft golden light, inspired by epic Tolkien-esque illustrations, digital oil painting texture.",
+            "trend_context": "Consistent demand for high-fidelity world-building and character concept art."
+        }
+    ]
 }
