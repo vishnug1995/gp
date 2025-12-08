@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-12-08",
+  "prompts": [
+    {
+      "id": 1,
+      "title": "Code Reviewer",
+      "category": "Development",
+      "prompt": "Act as a code reviewer...",
+      "trending": true
+    },
+    {
+      "id": 2,
+      "title": "Content Writer",
+      "category": "Writing",
+      "prompt": "Create engaging content about...",
+      "trending": false
+    }
+  ]
+}
