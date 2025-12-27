@@ -1,0 +1,126 @@
+{
+  "version": "2.0.0",
+  "lastUpdated": "2025-12-27",
+  "prompts": [
+    {
+      "id": 1,
+      "title": "The 'Midnight in Milan' Roleplay",
+      "category": "Romance & Roleplay (18+)",
+      "description": "High-fashion, high-tension encounter in a luxury penthouse",
+      "prompt": "Act as a sophisticated and seductive storyteller. We are in a glass-walled penthouse overlooking the rain-slicked streets of Milan. I am an undercover agent, and you are the mysterious billionaire holding the information I need. Describe the scene in 1500 words. Focus on the low lighting, the smell of expensive cologne and vintage wine, and the palpable sexual tension as we trade secrets for sips of wine. Use evocative, 'sexy' language, focusing on the power dynamics, the lingering eye contact, and the subtle brush of hands. Keep the dialogue sharp, witty, and deeply suggestive. Your goal is to make the user feel the heat in the room.",
+      "tags": ["romance", "roleplay", "long", "sexy", "power-play"],
+      "trending": true,
+      "popularity": 99,
+      "style": "Cinematic Noir",
+      "trendContext": "Viral for immersive adult escapism."
+    },
+    {
+      "id": 2,
+      "title": "The '7 Veils' Intimacy Blueprint",
+      "category": "Couples & Connection",
+      "description": "A week-long guide to deepening physical and emotional intimacy",
+      "prompt": "Act as a master relationship and intimacy coach. Create a comprehensive 7-day 'Intimacy Rejuvenation Blueprint' for a long-term couple who has lost their 'spark'. For each day, provide: 1. A 300-word emotional connect exercise (vulnerability work), 2. A 500-word physical 'tease' activity (non-sexual but highly suggestive touch/sensory play), and 3. A 'Mystery Challenge' to do in the bedroom. The tone should be warm, clinical but provocative, and deeply detailed. Focus on sensory deprivation, eye gazing, and the psychology of desire.",
+      "tags": ["couples", "intimacy", "long", "wellness", "spicy"],
+      "trending": true,
+      "popularity": 98,
+      "style": "Masterclass Guide",
+      "trendContext": "High demand for AI-driven relationship therapy tools."
+    },
+    {
+      "id": 3,
+      "title": "Seductive Culinary Experience",
+      "category": "Lifestyle & Romance",
+      "description": "A guide to a five-course aphrodisiac dinner and experience",
+      "prompt": "Act as a Michelin-star chef and intimacy expert. Design an 'Aphrodisiac Masterclass' for a couple's night in. Provide a 2000-word guide including: 1. A 5-course menu with detailed recipes focusing on textures (crunchy, creamy, melting), 2. A 'Sensory Soundtrack' suggestion for each course, and 3. 'Table Talk' prompts designed to be playful, sexy, and deep. Finally, describe how the meal should transition from the dining table to the lounge area to maintain the romantic momentum. Use words that evoke taste, smell, and touch.",
+      "tags": ["cooking", "romance", "couples", "sensory", "long"],
+      "trending": false,
+      "popularity": 95,
+      "style": "Sensual Lifestyle",
+      "trendContext": "Popular for 'Date Night' AI assistance."
+    },
+    {
+      "id": 4,
+      "title": "The 'Vampire's Kiss' Gothic Noir",
+      "category": "Creative Writing (18+)",
+      "description": "Dark, ethereal, and intensely romantic fantasy storytelling",
+      "prompt": "Act as a best-selling Gothic Horror/Romance novelist. Write a 3000-word scene describing a forbidden late-night encounter between a human and an ancient, seductive vampire in a crumbling Victorian manor. Focus on the contrast between life and death—the warmth of blood vs. the coldness of stone. Use lush, descriptive, and 'sexy' prose to describe the tension, the exchange of 'mortal and immortal' energy, and the surrender to desire. Avoid cliches; focus on the psychological and sensory depth of the addiction to the other person.",
+      "tags": ["gothic", "writing", "fantasy", "long", "sexy"],
+      "trending": true,
+      "popularity": 97,
+      "style": "Dark Eroticism",
+      "trendContext": "Captures the 'Dark Academia' and 'Gothic Romance' reader demographic."
+    },
+    {
+      "id": 5,
+      "title": "Adult Biohacking: The Libido Protocol",
+      "category": "Wellness & Health (Adult)",
+      "description": "Dopamine and testosterone optimization for physical vitality",
+      "prompt": "Act as an expert in peak performance and longevity. Create a 3500-word 'Vitality Protocol' for adults focusing on hormonal optimization and libido. Include: 1. A deep dive into the Dopamine Reward System and its role in attraction, 2. A nutrition and supplement guide (Tongkat Ali, Maca, etc.) with dosage and safety warnings, 3. A sleep and stress management plan for 'Performance Anxiety', and 4. A summary of the latest peer-reviewed research on natural ways to increase intimacy drive. The tone must be clinical, scientific, but encouraging and direct about adult needs.",
+      "tags": ["biohacking", "health", "adult", "performance", "long"],
+      "trending": false,
+      "popularity": 94,
+      "style": "Technical Wellness",
+      "trendContext": "Growing interest in 'Sexual Longevity' and male/female health optimization."
+    },
+    {
+      "id": 6,
+      "title": "The 'Power Play' Negotiation RPG",
+      "category": "Roleplay & Influence",
+      "description": "Adult social engineering simulation in a high-stakes setting",
+      "prompt": "Act as a high-stakes negotiation coach. We are in a private casino lounge in Macau. You are my rival, and we are playing a game of poker where the stakes are not money, but 'favors.' Describe the opening scene in 1500 words. Focus on the psychology of the bluff, the micro-expressions of attraction, and the 'sexy' tension of the high-risk environment. Use a 'Machiavellian' tone—cunning, smooth, and provocative. Your goal is to entice the user into a mental battle where information and desire are the primary currency.",
+      "tags": ["psychology", "negotiation", "roleplay", "long", "adult"],
+      "trending": true,
+      "popularity": 96,
+      "style": "Psychological Thriller",
+      "trendContext": "Viral for 'High Value' and social intelligence roleplays."
+    },
+    {
+      "id": 7,
+      "title": "Intimate Photography: The 'Gaze' Guide",
+      "category": "Art & Photography (Adult)",
+      "description": "How to capture sensual, artistic, and respectful couple's photography",
+      "prompt": "Act as a world-class boudoir and intimacy photographer. Write a 2500-word guide for a couple to take 'Artistic Noir' photos of each other at home. Focus on: 1. 'Chiaroscuro' lighting techniques using only a smartphone and a window, 2. Posing for 'The Gaze'—how to look at the camera to convey deep desire without being vulgar, 3. Creating a safe, romantic atmosphere to ensure the subject feels beautiful and comfortable, and 4. Editing for a 'film' aesthetic. The tone should be artistic, respectful, and highly encouraging of physical self-love.",
+      "tags": ["photography", "art", "couples", "sensual", "long"],
+      "trending": false,
+      "popularity": 91,
+      "style": "Creative Masterclass",
+      "trendContext": "Move toward 'Authentic Sensuality' in mobile photography."
+    },
+    {
+      "id": 8,
+      "title": "Forbidden City: The Shogun's Secret",
+      "category": "Historical Fiction (Noir)",
+      "description": "Exotic roleplay in ancient Japan involving espionage and desire",
+      "prompt": "Act as a historical fiction author specializing in Sengoku-era Japan. You are the Shogun's personal shadow, and I am the foreign envoy sent to negotiate a treaty. We are in a hidden teahouse during a snowfall. Describe the setting and our first meeting in 3000 words. Focus on the contrast between the cold outside and the warmth of the tea and silk inside. Use 'sexy' and evocative descriptions of the traditional garments, the rituals of the tea ceremony, and the hidden daggers and hidden desires shared between two rivals. The language should be poetic and intensely atmospheric.",
+      "tags": ["history", "roleplay", "japan", "noir", "long"],
+      "trending": true,
+      "popularity": 95,
+      "style": "Lyrical Eroticism",
+      "trendContext": "Gaining traction in the 'Historical Noir' writing community."
+    },
+    {
+      "id": 9,
+      "title": "Couple's Mystery: 'The Shadow Affair'",
+      "category": "Couples & Games",
+      "description": "An interactive, sexy murder mystery for two people",
+      "prompt": "Act as a game designer. Create a 4000-word 'Interactive Bedroom Mystery' for two partners. Partner A takes the role of 'The Detective', and Partner B is 'The Suspect'. The game must involve 'clues' hidden in the house, a 'sexy interrogation' phase with specific questions, and multiple endings based on 'pleas'. Provide a full script, list of physical props (simple ribbons, notes, wine), and instructions on how to maintain the 'Adult Noir' tone throughout the night. Focus on high-tension roleplay and playful 'punishments'.",
+      "tags": ["games", "couples", "mystery", "roleplay", "long"],
+      "trending": true,
+      "popularity": 99,
+      "style": "Interactive Narrative",
+      "trendContext": "New wave of AI-assisted 'Night-In' entertainment for adults."
+    },
+    {
+      "id": 10,
+      "title": "The Art of Seductive Conversation",
+      "category": "Psychology & Communication",
+      "description": "How to use 'Vocal Fry' and verbal pacing to build attraction",
+      "prompt": "Act as a senior expert in voice-over and social psychology. Create a 3000-word guide on the 'Art of the Verbal Tease'. Explain: 1. The 'Lowering the Octave' technique for building instant intimacy, 2. The 'Suspense Gap' in texting—how to leave someone wanting more, 3. Using pauses and 'warm' breath control in phone conversations, and 4. The psychology of 'Banter vs. Flirting'. Provide 20 specific long-form examples of 'sexy but smart' responses to common conversation starters. The tone should be savvy, professional, and slightly predatory in its intelligence.",
+      "tags": ["communication", "psychology", "dating", "adult", "long"],
+      "trending": true,
+      "popularity": 96,
+      "style": "Behavioral Expert",
+      "trendContext": "Major trend for 'Vocal Rizz' and social dynamics coaching."
+    }
+  ]
+}
