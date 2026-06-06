@@ -338,6 +338,54 @@
       "style": "Bohemian Travel Editorial Portraiture",
       "trendContext": "Captures the high-demand aesthetic of luxury destination travel photography, focusing on historic architecture contrasting with soft organic textiles and pristine coastal environments.",
       "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_9c103117693b_1780777520610.webp"
+    },
+    {
+      "id": 17,
+      "title": "Luxury Lavender Birthday Portrait",
+      "category": "Photography",
+      "description": "An ultra-photorealistic premium editorial birthday portrait of a young Indian woman in a sparkling lavender ball gown and diamond tiara, posing beside a minimalist lavender-and-rose birthday cake in an upscale, lit venue.",
+      "prompt": "Create an ultra realistic birthday portrait of a young Indian woman celebrating her birthday in an elegant luxury indoor venue, her face identity locked exactly as the reference image with every facial feature, eye shape, skin tone, nose, lips and natural expression preserved completely without any alteration. She wears a sparkling lavender off-shoulder Pinterest-inspired ball gown with crystal detailing across the bodice, paired with silver block heels and a delicate diamond tiara sitting gently over soft curled hair. She sits gracefully beside a large white birthday cake decorated with lavender roses and golden glowing candles, her eyes meeting the camera with a calm, confident expression. Luxury balloon arrangements in white and lilac float around the scene, pastel floral installations line the background, and fine confetti catches the warm overhead light. Captured on a Sony A7IV using an 85mm lens at f/1.8 and ISO 100, shallow depth of field, bokeh circles dissolving into the background, cinematic color grading in soft mauve and cream tones, Kodak Portra 400 film tones, skin pores and imperfections, flyaway hair strands, volumetric lighting, realistic shadows, global illumination, commercial photography style, ultra realistic texturing, authentic candid capture, HDR, 8K resolution, luxury birthday portrait photography, premium editorial quality aesthetic, aspect ratio 3:4. Styled with full premium fashion editorial sensibility, clean and classy in every detail, platform-safe, natural skin finish, cinematic light wrapping the frame beautifully.",
+      "tags": [
+        "birthday portrait",
+        "lavender gown",
+        "luxury venue",
+        "tiara",
+        "editorial photography",
+        "sony a7iv",
+        "85mm lens",
+        "birthday cake",
+        "cinematic bokeh",
+        "watermark"
+      ],
+      "trending": true,
+      "popularity": 97,
+      "style": "Luxury Editorial Portraiture",
+      "trendContext": "Reflects the highly popular 'Pinterest-aesthetic' birthday shoots, featuring color-coordinated balloon/floral arrangements, premium evening wear, and high-end cinematic film tones.",
+      "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_5117d232ec0b_1780777827973.webp"
+    },
+    {
+      "id": 18,
+      "title": "Vibrant Purple Influencer Birthday Celebration",
+      "category": "Photography",
+      "description": "An ultra-photorealistic lifestyle portrait of a fashionable young Indian woman standing tall in a purple satin tailored fit dress beside a luxury two-tier birthday cake, backlit by a neon 'Happy Birthday' sign and a matching purple balloon arch.",
+      "prompt": "A vibrant indoor birthday party scene fills the frame as a fashionable young Indian woman stands tall beside a luxury two-tier birthday cake, her facial identity matching the reference image precisely with the same bone structure, same eyes, same brows, same lip shape and same complexion unchanged in any way. She wears a Pinterest-style purple satin tailored fit dress with silver accessories and elegant block heels, her posture confident and her expression playful and celebratory toward the camera. The cake beside her is decorated with purple ribbons and fresh flowers, and behind her a giant purple balloon arch curves beautifully while a glowing Happy Birthday neon sign lights the background in soft violet. Captured on a Sony A7R V at 85mm focal length and f/1.4 wide open, the neon ambient glow wraps the scene in cinematic purple and silver tones, skin pores and imperfections visible, realistic shadows, bokeh circles, high-fidelity photography, commercial photography style, HDR, depth of field, luxury birthday influencer aesthetic, premium editorial quality, realistic lighting physics, aspect ratio 3:4. Luxury lifestyle editorial look throughout, tasteful and classy in every detail, platform-safe styling, cinematic light and natural skin tone carried through the full frame.",
+      "tags": [
+        "birthday celebration",
+        "purple dress",
+        "satin gown",
+        "neon sign",
+        "influencer aesthetic",
+        "sony a7r v",
+        "85mm lens",
+        "balloon arch",
+        "indoor party",
+        "luxury lifestyle"
+      ],
+      "trending": true,
+      "popularity": 95,
+      "style": "Luxury Lifestyle Editorial Portraiture",
+      "trendContext": "Aligns with the modern lifestyle influencer trend of vibrant, themed birthday events illuminated by custom neon signs and sleek, ambient party decor.",
+      "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_78b1c34cbeff_1780777919542.webp"
     }
   ]
 }
