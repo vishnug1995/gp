@@ -122,6 +122,30 @@
       "style": "Domestic Realism",
       "trendContext": "Growing user preference for deeply personal, low-contrast, and non-sexualized domestic photography that feels genuinely private and unposed.",
       "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_30f80b0cbac7_1780771883087.webp"
-    }
+    },
+    {
+  "id": 6,
+  "title": "Garden First Look Walk",
+  "category": "Photography",
+  "description": "An ultra-photorealistic full-body shot of a bride walking toward her groom in a blooming garden during the golden hour, captured with soft, backlit natural lighting.",
+  "prompt": "An ultra photorealistic candid moment in a blooming garden during golden hour, capturing a bride walking toward a groom who stands waiting. The bride moves with natural stride, veil and dress hem flowing gently in the breeze, while the groom watches with a soft genuine smile, arms relaxed at his sides. The two faces are derived directly from the uploaded reference images, with their original hairstyles, hair textures, and colors strictly preserved. Both wear elegant wedding attire with natural fabric textures. Shot with an 85mm portrait lens at f/2, featuring shallow depth of field blurring the dense garden background while keeping subjects sharp, framed as a wide full-body shot at natural eye-level. Warm golden hour sunlight filters through foliage creating uneven highlights on faces with soft shadows, revealing skin texture with visible pores, no AI beauty filters. Natural weight distribution with correct leg and arm anatomy, no body intersection. Soft ivory, cream, and warm amber tones. No rings, text, watermarks, logos, or studio lighting.",
+  "tags": [
+    "wedding",
+    "bride and groom",
+    "garden",
+    "golden hour",
+    "first look",
+    "full body shot",
+    "candid",
+    "85mm lens",
+    "backlight",
+    "outdoor"
+  ],
+  "trending": true,
+  "popularity": 95,
+  "style": "Cinematic Wedding Realism",
+  "trendContext": "Highly sought-after aesthetic for editorial wedding lookbooks, focusing on movement, fluid fabric physics, and organic lens flare.",
+  "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_387bba3cdfaf_1780772726133.webp"
+}
   ]
 }
