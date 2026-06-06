@@ -242,6 +242,30 @@
       "style": "Cultural Cinematic Realism",
       "trendContext": "Highly trending for its rich cultural storytelling, high-fidelity textile patterns, and architectural framing that balances symmetry with organic garden elements.",
       "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_fccb31f9d6c7_1780774429712.webp"
+    },
+    {
+      "id": 14,
+      "title": "Stylized 3D Cartoon Skater Character",
+      "category": "3D Digital Art / Character Design",
+      "description": "A premium, animated-film style 3D render of a cool, bored skater character featuring exaggerated proportions, street-art details, and a polished Pixar-meets-Spider-Verse visual finish.",
+      "prompt": "Design a stylized 3D cartoon skater character with a premium animated-film look, mixing Pixar-like polish, Spider-Verse energy, and indie street-art attitude.\n\nCharacter details:\n- exaggerated proportions with long, skinny limbs\n- oversized hoodie in customizable pink\n- baggy ripped denim jeans\n- chunky sneakers\n- expressive tired-but-confident face\n- messy stylized hair\n- large headphones\n- backpack covered with pins and patches\n- standing naturally on a skateboard\n\nVisual style:\nClean cinematic 3D render with soft global illumination, subtle chromatic aberration, ultra-detailed textures, smooth shading, playful but believable anatomy, high-end character design, stylized streetwear fashion, and urban youth energy.\n\nPose:\nSlightly slouched posture, one hand relaxed, cool bored expression, looking sideways.\n\nBackground:\nMinimal clean studio background with soft shadows and a centered composition.\n\nExtra details:\nAdd stickers, embroidered patches, smiley pins, doodles, skate-culture details, early-2000s urban energy, cinematic render quality, and a polished animation-studio finish.\n\nAspect ratio: 4:5 vertical.",
+      "tags": [
+        "3d character design",
+        "stylized 3d",
+        "skater boy",
+        "streetwear fashion",
+        "pixar style",
+        "spider-verse energy",
+        "cinematic render",
+        "urban youth",
+        "pink hoodie",
+        "animation studio polish"
+      ],
+      "trending": true,
+      "popularity": 95,
+      "style": "Stylized 3D Animation Realism",
+      "trendContext": "Reflects the highly popular trend of blending high-fidelity global illumination textures with exaggerated, expressive 2.5D/3D animation proportions reminiscent of modern feature films.",
+      "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_fc496e3317e6_1780775394220.webp"
     }
   ]
 }
