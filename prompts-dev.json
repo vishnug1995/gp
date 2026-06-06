@@ -266,6 +266,78 @@
       "style": "Stylized 3D Animation Realism",
       "trendContext": "Reflects the highly popular trend of blending high-fidelity global illumination textures with exaggerated, expressive 2.5D/3D animation proportions reminiscent of modern feature films.",
       "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_fc496e3317e6_1780775394220.webp"
+    },
+    {
+      "id": 15,
+      "title": "Cancun Coastal Summer Editorial",
+      "category": "Photography",
+      "description": "An ultra-photorealistic travel editorial portrait of a young Indian woman walking barefoot along the pristine white shoreline of Cancun during a warm, golden evening.",
+      "prompt": "A warm soft coastal light is already falling across the white shoreline of Cancun when a beautiful young Indian woman steps into the frame, her face identity locked exactly as the reference image with every facial feature, skin tone, eye shape, lips, and natural expression preserved precisely as uploaded, her flowing white summer dress catching the gentle sea breeze as she walks barefoot along the pristine beach, the crystal clear turquoise water stretching wide behind her, a stylish woven sun hat tilted naturally on her head, elegant flat sandals tucked in her hand, looking directly into the camera with a relaxed natural smile, luxury resort silhouettes visible softly in the far background, lush palm trees swaying gently in the frame, the sky painted in deep amber and rose tones of a coastal evening, shot on a Sony A7IV at 85mm f1.8 with the background dissolving into a warm painterly depth while her face stays razor sharp and luminous, color grading in warm cinematic tones, rich saturation, travel editorial photography, aspect ratio 3:4, styled with premium editorial sensibility, clean and classy, platform-safe from every angle, natural skin, cinematic light quality throughout.",
+      "tags": [
+        "cancun beach",
+        "travel editorial",
+        "indian woman",
+        "summer dress",
+        "coastal evening",
+        "sony a7iv",
+        "85mm lens",
+        "golden hour",
+        "cinematic lighting",
+        "watermark"
+      ],
+      "trending": true,
+      "popularity": 94,
+      "style": "Travel Editorial Portraiture",
+      "trendContext": "High demand for destination-style luxury travel photography that incorporates precise face-matching and elegant, integrated typography watermarks.",
+      "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_12ee29f02628_1780777312895.webp"
+    },
+    {
+      "id": 16,
+      "title": "Tulum Ancient Ruins Boho Editorial",
+      "category": "Photography",
+      "description": "An ultra-photorealistic fashion travel editorial featuring a young Indian woman in a beige linen boho maxi dress standing near the cliff edge of the ancient Mayan ruins of Tulum, overlooking the turquoise Caribbean Sea.",
+      "prompt": "The ancient Mayan ruins of Tulum catch the last soft light of afternoon as a stylish young Indian woman steps close to the stone edge, her face completely faithful to the reference photo with no changes to her facial structure, skin tone, eye shape, brows, or natural expression whatsoever, wearing a chic beige boho maxi dress in breathable linen fabric that moves naturally with the sea wind, a handwoven straw bag hanging casually from her shoulder, minimal gold jewelry, hair loosely falling in soft waves, standing tall with quiet confident energy and looking directly at the camera, the Caribbean Sea visible in deep turquoise behind her, lush tropical greenery framing both sides of the shot, captured on a Canon EOS R5 at 50mm f2.0, warm natural daylight falling softly across her face, the background fading into a rich cinematic blur of sea and ancient stone, color grading in earthy warm tones with subtle green undertones, luxury bohemian travel editorial aesthetic, vacation photoshoot ideas for girls done right, aspect ratio 3:4, full fashion editorial treatment, elegant and refined, completely platform-safe, natural beauty forward, high-end magazine quality lighting and finish.",
+      "tags": [
+        "tulum ruins",
+        "boho fashion",
+        "travel editorial",
+        "indian woman",
+        "linen dress",
+        "canon eos r5",
+        "50mm lens",
+        "caribbean sea",
+        "mexico vacation",
+        "cinematic background"
+      ],
+      "trending": true,
+      "popularity": 96,
+      "style": "Bohemian Travel Editorial Portraiture",
+      "trendContext": "Captures the high-demand aesthetic of luxury destination travel photography, focusing on historic architecture contrasting with soft organic textiles and pristine coastal environments.",
+      "imageUrl": "watermarked_img_5782296939180057867.png"
+    },
+    {
+      "id": 16,
+      "title": "Tulum Ancient Ruins Boho Editorial",
+      "category": "Photography",
+      "description": "An ultra-photorealistic fashion travel editorial featuring a young Indian woman in a beige linen boho maxi dress standing near the cliff edge of the ancient Mayan ruins of Tulum, overlooking the turquoise Caribbean Sea.",
+      "prompt": "The ancient Mayan ruins of Tulum catch the last soft light of afternoon as a stylish young Indian woman steps close to the stone edge, her face completely faithful to the reference photo with no changes to her facial structure, skin tone, eye shape, brows, or natural expression whatsoever, wearing a chic beige boho maxi dress in breathable linen fabric that moves naturally with the sea wind, a handwoven straw bag hanging casually from her shoulder, minimal gold jewelry, hair loosely falling in soft waves, standing tall with quiet confident energy and looking directly at the camera, the Caribbean Sea visible in deep turquoise behind her, lush tropical greenery framing both sides of the shot, captured on a Canon EOS R5 at 50mm f2.0, warm natural daylight falling softly across her face, the background fading into a rich cinematic blur of sea and ancient stone, color grading in earthy warm tones with subtle green undertones, luxury bohemian travel editorial aesthetic, vacation photoshoot ideas for girls done right, aspect ratio 3:4, full fashion editorial treatment, elegant and refined, completely platform-safe, natural beauty forward, high-end magazine quality lighting and finish.",
+      "tags": [
+        "tulum ruins",
+        "boho fashion",
+        "travel editorial",
+        "indian woman",
+        "linen dress",
+        "canon eos r5",
+        "50mm lens",
+        "caribbean sea",
+        "mexico vacation",
+        "cinematic background"
+      ],
+      "trending": true,
+      "popularity": 96,
+      "style": "Bohemian Travel Editorial Portraiture",
+      "trendContext": "Captures the high-demand aesthetic of luxury destination travel photography, focusing on historic architecture contrasting with soft organic textiles and pristine coastal environments.",
+      "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_9c103117693b_1780777520610.webp"
     }
   ]
 }
