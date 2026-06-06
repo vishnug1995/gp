@@ -124,28 +124,76 @@
       "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_30f80b0cbac7_1780771883087.webp"
     },
     {
-  "id": 6,
-  "title": "Garden First Look Walk",
-  "category": "Photography",
-  "description": "An ultra-photorealistic full-body shot of a bride walking toward her groom in a blooming garden during the golden hour, captured with soft, backlit natural lighting.",
-  "prompt": "An ultra photorealistic candid moment in a blooming garden during golden hour, capturing a bride walking toward a groom who stands waiting. The bride moves with natural stride, veil and dress hem flowing gently in the breeze, while the groom watches with a soft genuine smile, arms relaxed at his sides. The two faces are derived directly from the uploaded reference images, with their original hairstyles, hair textures, and colors strictly preserved. Both wear elegant wedding attire with natural fabric textures. Shot with an 85mm portrait lens at f/2, featuring shallow depth of field blurring the dense garden background while keeping subjects sharp, framed as a wide full-body shot at natural eye-level. Warm golden hour sunlight filters through foliage creating uneven highlights on faces with soft shadows, revealing skin texture with visible pores, no AI beauty filters. Natural weight distribution with correct leg and arm anatomy, no body intersection. Soft ivory, cream, and warm amber tones. No rings, text, watermarks, logos, or studio lighting.",
-  "tags": [
-    "wedding",
-    "bride and groom",
-    "garden",
-    "golden hour",
-    "first look",
-    "full body shot",
-    "candid",
-    "85mm lens",
-    "backlight",
-    "outdoor"
-  ],
-  "trending": true,
-  "popularity": 95,
-  "style": "Cinematic Wedding Realism",
-  "trendContext": "Highly sought-after aesthetic for editorial wedding lookbooks, focusing on movement, fluid fabric physics, and organic lens flare.",
-  "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_387bba3cdfaf_1780772726133.webp"
-}
+      "id": 6,
+      "title": "Garden First Look Walk",
+      "category": "Photography",
+      "description": "An ultra-photorealistic full-body shot of a bride walking toward her groom in a blooming garden during the golden hour, captured with soft, backlit natural lighting.",
+      "prompt": "An ultra photorealistic candid moment in a blooming garden during golden hour, capturing a bride walking toward a groom who stands waiting. The bride moves with natural stride, veil and dress hem flowing gently in the breeze, while the groom watches with a soft genuine smile, arms relaxed at his sides. The two faces are derived directly from the uploaded reference images, with their original hairstyles, hair textures, and colors strictly preserved. Both wear elegant wedding attire with natural fabric textures. Shot with an 85mm portrait lens at f/2, featuring shallow depth of field blurring the dense garden background while keeping subjects sharp, framed as a wide full-body shot at natural eye-level. Warm golden hour sunlight filters through foliage creating uneven highlights on faces with soft shadows, revealing skin texture with visible pores, no AI beauty filters. Natural weight distribution with correct leg and arm anatomy, no body intersection. Soft ivory, cream, and warm amber tones. No rings, text, watermarks, logos, or studio lighting.",
+      "tags": [
+        "wedding",
+        "bride and groom",
+        "garden",
+        "golden hour",
+        "first look",
+        "full body shot",
+        "candid",
+        "85mm lens",
+        "backlight",
+        "outdoor"
+      ],
+      "trending": true,
+      "popularity": 95,
+      "style": "Cinematic Wedding Realism",
+      "trendContext": "Highly sought-after aesthetic for editorial wedding lookbooks, focusing on movement, fluid fabric physics, and organic lens flare.",
+      "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_387bba3cdfaf_1780772726133.webp"
+    },
+    {
+      "id": 7,
+      "title": "Playful Beach Heart Sunset",
+      "category": "Photography",
+      "description": "An ultra-photorealistic medium shot of a wedding couple standing on a white sand beach at sunset, playfully forming a heart shape with their hands while laughing toward the camera.",
+      "prompt": "An ultra photorealistic candid moment on a quiet stretch of white sand beach at sunset, gentle waves rolling in with soft white foam at the water's edge, capturing a playful lighthearted moment. The couple stands side by side facing the camera, each using both hands to form half of a heart shape that meets in the center between them, both wearing bright open laughter with one eye playfully winking, shoulders relaxed, bodies turned slightly toward each other. The two faces are derived directly from the uploaded reference images, with their original hairstyles, hair textures, and colors strictly preserved. Both wear elegant wedding attire with natural fabric textures. Shot with a 50mm lens at f/2.2, featuring shallow depth of field blurring the rolling waves and golden horizon while keeping subjects sharp, framed as a medium shot at natural eye-level. Warm golden hour sunlight creates even light on their faces with soft shadows revealing skin texture with visible pores, no AI beauty filters, no plastic smoothing. Natural weight distribution with correct standing posture and arm anatomy, no body intersection, no floating limbs, no awkward finger bending. Soft ivory, seafoam white, and warm gold tones. No rings, text, watermarks, logos, or studio lighting. No AI face, plastic skin, overly symmetrical beauty, fashion shoot posing, centered composition, shocked/scared expressions, wide eyes, or awkward surprise.",
+      "tags": [
+        "beach wedding",
+        "sunset",
+        "playful",
+        "hand heart",
+        "candid laughter",
+        "50mm lens",
+        "golden hour",
+        "ocean waves",
+        "outdoor photography",
+        "authentic smile"
+      ],
+      "trending": true,
+      "popularity": 93,
+      "style": "Candid Romantic Realism",
+      "trendContext": "Popular for its balance of traditional wedding aesthetics with joyful, lighthearted, and unposed human interaction.",
+      "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_1386e5076758_1780773125591.webp"
+    },
+    {
+      "id": 8,
+      "title": "Misty Nordic Lake Intimacy",
+      "category": "Photography",
+      "description": "An ultra-photorealistic medium close-up of a couple in Nordic-inspired wedding attire resting together on a pebbled shore by a still, misty forest lake under a soft grey sky.",
+      "prompt": "An ultra photorealistic candid moment at the edge of a still mirror-like Nordic lake surrounded by dense pine forest, the water reflecting the tall evergreens and soft grey sky like glass, cool mist hovering over the surface, smooth pebbles lining the shore, capturing two people resting together in quiet intimacy. The bride sits with her ivory lace dress pooled around her on the smooth stones, leaning her head gently on the groom's shoulder while he tilts his cheek softly against her hair, both looking out at the misty lake with peaceful content expressions, the cool lakeside breeze stirring a few strands of her hair. The two faces are derived directly from the uploaded reference images, with their original hairstyles, hair textures, and colors strictly preserved. Both wear Nordic-inspired wedding attire with natural fabric textures, the bride in a flowing ivory lace dress with a chunky hand-knit wool shawl and simple wildflower crown, and the groom in a charcoal wool coat over a cream linen shirt with rolled-up sleeves. Shot with an 85mm portrait lens at f/2, featuring shallow depth of field blurring the dense forest and misty lake surface while keeping subjects sharp, framed as a medium close-up at natural eye-level. Soft diffused Nordic light reflected off the still water creates gentle even light on their faces with subtle shadows, revealing skin texture with visible pores, no AI beauty filters, no plastic smoothing. Natural weight distribution with correct seated posture and neck anatomy, no body intersection, no floating limbs. Soft ivory, misty grey, and cool forest green tones. No rings, text, watermarks, logos, or studio lighting. No AI face, plastic skin, overly symmetrical beauty, fashion shoot posing, centered composition, shocked/scared expressions, wide eyes, or awkward surprise.",
+      "tags": [
+        "nordic lake",
+        "misty forest",
+        "boho wedding",
+        "intimate",
+        "85mm lens",
+        "diffused light",
+        "candid portrait",
+        "nature reflection",
+        "wool shawl",
+        "moody photography"
+      ],
+      "trending": true,
+      "popularity": 97,
+      "style": "Moody Cinematic Realism",
+      "trendContext": "Highly trending aesthetic focusing on desaturated, cool color palettes, rich organic textures (wool, lace, pebbles), and atmospheric, quiet romance.",
+      "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_11ba284c283d_1780773949973.webp"
+    }
   ]
 }
