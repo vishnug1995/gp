@@ -49,7 +49,7 @@
       "popularity": 96,
       "style": "Epic Cinematic Realism",
       "trendContext": "Highly popular for capturing high-stakes emotional milestones combined with complex, dynamic environmental lighting and particle physics.",
-      "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_09b56369cf95_1780771057766.webp"
+      "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_1386e5076758_1780773125591.webp"
     },
     {
       "id": 3,
@@ -194,6 +194,54 @@
       "style": "Moody Cinematic Realism",
       "trendContext": "Highly trending aesthetic focusing on desaturated, cool color palettes, rich organic textures (wool, lace, pebbles), and atmospheric, quiet romance.",
       "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_11ba284c283d_1780773949973.webp"
+    },
+    {
+      "id": 9,
+      "title": "Playful Lazy Afternoon Tees and Jeans",
+      "category": "Photography",
+      "description": "An ultra-photorealistic, candid medium shot of a couple in simple white t-shirts and jeans laughing playfully in a sunlit apartment living room during a lazy afternoon.",
+      "prompt": "An ultra photorealistic candid lazy afternoon scene in a sunlit apartment living room, capturing two people in white tees and jeans playfully interacting. One person sits on the floor while the other stands behind them, gently messing up their hair with a hand, both laughing with genuine joy and relaxed eyes. The two faces are derived directly from the uploaded reference images, with original hairstyles, textures, and colors strictly preserved. Both wear simple white cotton tees and light-wash blue jeans in relaxed fits—minimal, clean, no accessories. Shot with a 50mm lens at f/2, shallow depth of field blurring the lived-in room behind, framed as a medium candid shot at eye-level. Soft afternoon window light creates warm natural illumination with gentle shadows. Skin texture with visible pores, no AI smoothing. Correct anatomy, natural arm and hand positions, no warped fingers. Warm whites, natural denim blue, soft skin tones. No rings, text, watermarks, studio lighting, perfect symmetry.",
+      "tags": [
+        "candid",
+        "lazy afternoon",
+        "white tee",
+        "jeans",
+        "laughter",
+        "living room",
+        "50mm lens",
+        "natural window light",
+        "lifestyle photography",
+        "minimalist"
+      ],
+      "trending": true,
+      "popularity": 92,
+      "style": "Candid Lifestyle Realism",
+      "trendContext": "Reflects a massive shift toward hyper-minimalist, high-authenticity lifestyle portraits that emphasize clean wardrobe choices and spontaneous human joy.",
+      "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_b439d476d881_1780774272624.webp"
+    },
+    {
+      "id": 10,
+      "title": "Traditional Chinese Moon Gate Wedding Portrait",
+      "category": "Photography",
+      "description": "An ultra-photorealistic medium shot of a couple in traditional Chinese wedding attire, standing close within a circular stone moon gate framed by plum blossoms and soft diffused light.",
+      "prompt": "An ultra photorealistic candid moment in a serene traditional Chinese garden, a circular moon gate framed by climbing vines and delicate plum blossoms, grey-tiled roofs visible beyond, soft diffused light, capturing two people standing face to face within a moon gate. They stand close with hands gently clasped in the traditional Chinese gesture, bodies turned in three-quarter profile toward the camera, both looking at each other with soft affectionate eyes and gentle restrained smiles, the moon gate creating a perfect circular frame around them like a jade pendant. The two faces are derived directly from the uploaded reference images, with their original hairstyles, hair textures, and colors strictly preserved. Both wear traditional Chinese wedding attire with natural fabric textures, the bride in a traditional red xiuhefu wedding gown with intricate gold embroidery and phoenix patterns and delicate gold hairpins in an elaborate updo, and the groom in a black traditional changshan robe with subtle gold trim and mandarin collar. Shot with a 50mm lens at f/2.2, featuring shallow depth of field blurring the garden beyond the moon gate while keeping subjects and the stone arch sharp, framed as a medium shot at natural eye-level. Soft diffused natural light filtering through the vines creates gentle gradients on their faces with subtle shadows, revealing skin texture with visible pores, no AI beauty filters, no plastic smoothing. Natural weight distribution with correct standing posture and hand anatomy, no body intersection, no floating limbs. Imperial red, jade green, and antique gold tones. No rings, text, watermarks, logos, or studio lighting.",
+      "tags": [
+        "chinese garden",
+        "moon gate",
+        "xiuhefu",
+        "changshan",
+        "traditional wedding",
+        "gold embroidery",
+        "plum blossoms",
+        "50mm lens",
+        "diffused light",
+        "cultural heritage"
+      ],
+      "trending": true,
+      "popularity": 96,
+      "style": "Cultural Cinematic Realism",
+      "trendContext": "Highly trending for its rich cultural storytelling, high-fidelity textile patterns, and architectural framing that balances symmetry with organic garden elements.",
+      "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_fccb31f9d6c7_1780774429712.webp"
     }
   ]
 }
