@@ -4,30 +4,6 @@
   "gemini_usage_note": "To use these prompts in Gemini: Upload your photo, then paste the prompt text. Gemini will blend your image into the described scene while preserving your likeness.",
   "prompts": [
     {
-      "id": 71,
-      "title": "Dual-Zone Cinematic Soulmate Poster",
-      "category": "Photography",
-      "description": "A hyper-realistic pre-wedding conceptual photography poster featuring a dual-zone composition layout: a cool blue macro close-up at the top and a warm, full-body romantic shot at the bottom, complete with elegant typography overlay.",
-      "prompt": "Create a hyper-realistic cinematic couple photography poster, 2:3 portrait format. Dual-zone composite layout:\n\n[TOP ZONE — Blue Cinematic Close-Up]\nExtreme macro close-up of a young couple, foreheads pressed together in an intimate near-kiss pose, eyes gently shut, soft genuine smiles. Shot with Sony Alpha 1 Mirrorless, 85mm f/1.2 prime lens, creamy bokeh, cool blue-steel color grade (#1a3a5c tonal palette). Faces razor-sharp, background melting into buttery bokeh haze. Cinematic soft haze overlay blending into the middle of the frame.\n\n[BOTTOM ZONE — Warm Full-Body Romance Shot]\nSame couple, warm natural daylight, slight Dutch/market tilt on frame. Man: white breathable linen half-sleeve shirt, bracelet on wrist, dark trousers. Woman: deep red satin spaghetti-strap fitted dress, long straight hair flowing freely. Both leaning foreheads together, gazing down at a dark-paper-wrapped red rose bouquet they hold between them. Overcast ocean/horizon soft blurred background, \"soft blurred background\", \"creamy bokeh effect\", \"shallow depth of field look\", \"cinematic haze\". Clear faces, clean skin, photorealistic detail.\n\n[BOTTOM TEXT OVERLAY]\nWhite handwritten signature-style cursive script:\n→ \"Soulmate\" (large, central) — two tiny flying dove silhouettes above the descender of 'l'\n→ Below in clean white uppercase sans-serif with wide letter-spacing: \"JACK-ROSE\"\n→ Below that: \"05 FEBRUARY 2022\"\n\nStyle: Editorial pre-wedding photography, Vogue India aesthetic, Sony Alpha 1 mirrorless, f/1.2 aperture, ISO 200, daylight balanced. Ultra-realistic, no illustration, photographic grain.",
-      "tags": [
-        "cinematic poster",
-        "pre-wedding photography",
-        "dual exposure layout",
-        "red satin dress",
-        "sony alpha 1",
-        "85mm lens",
-        "macro portrait",
-        "typography layout",
-        "vogue india style",
-        "romantic couple"
-      ],
-      "trending": true,
-      "popularity": 96,
-      "style": "High-End Conceptual Wedding Editorial",
-      "trendContext": "Aligns with the modern trend of cinematic dual-tone movie posters for engagement and pre-wedding announcements, utilizing stark color contrasts and high-fashion storytelling.",
-      "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_36b85f41058c_1780778490186.webp"
-    },
-    {
       "id": 72,
       "title": "Paris Garden Fashion Editorial",
       "category": "Photography",
@@ -74,30 +50,6 @@
       "style": "Luxury Lifestyle Editorial Portraiture",
       "trendContext": "Aligns with the modern lifestyle influencer trend of vibrant, themed birthday events illuminated by custom neon signs and sleek, ambient party decor.",
       "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_78b1c34cbeff_1780777919542.webp"
-    },
-    {
-      "id": 74,
-      "title": "Luxury Lavender Birthday Portrait",
-      "category": "Photography",
-      "description": "An ultra-photorealistic premium editorial birthday portrait of a young Indian woman in a sparkling lavender ball gown and diamond tiara, posing beside a minimalist lavender-and-rose birthday cake in an upscale, lit venue.",
-      "prompt": "Create an ultra realistic birthday portrait of a young Indian woman celebrating her birthday in an elegant luxury indoor venue, her face identity locked exactly as the reference image with every facial feature, eye shape, skin tone, nose, lips and natural expression preserved completely without any alteration. She wears a sparkling lavender off-shoulder Pinterest-inspired ball gown with crystal detailing across the bodice, paired with silver block heels and a delicate diamond tiara sitting gently over soft curled hair. She sits gracefully beside a large white birthday cake decorated with lavender roses and golden glowing candles, her eyes meeting the camera with a calm, confident expression. Luxury balloon arrangements in white and lilac float around the scene, pastel floral installations line the background, and fine confetti catches the warm overhead light. Captured on a Sony A7IV using an 85mm lens at f/1.8 and ISO 100, shallow depth of field, bokeh circles dissolving into the background, cinematic color grading in soft mauve and cream tones, Kodak Portra 400 film tones, skin pores and imperfections, flyaway hair strands, volumetric lighting, realistic shadows, global illumination, commercial photography style, ultra realistic texturing, authentic candid capture, HDR, 8K resolution, luxury birthday portrait photography, premium editorial quality aesthetic, aspect ratio 3:4. Styled with full premium fashion editorial sensibility, clean and classy in every detail, platform-safe, natural skin finish, cinematic light wrapping the frame beautifully.",
-      "tags": [
-        "birthday portrait",
-        "lavender gown",
-        "luxury venue",
-        "tiara",
-        "editorial photography",
-        "sony a7iv",
-        "85mm lens",
-        "birthday cake",
-        "cinematic bokeh",
-        "watermark"
-      ],
-      "trending": true,
-      "popularity": 97,
-      "style": "Luxury Editorial Portraiture",
-      "trendContext": "Reflects the highly popular 'Pinterest-aesthetic' birthday shoots, featuring color-coordinated balloon/floral arrangements, premium evening wear, and high-end cinematic film tones.",
-      "imageUrl": "https://ik.imagekit.io/geminiiprompt/compressed_5117d232ec0b_1780777827973.webp"
     },
     {
       "id": 75,
